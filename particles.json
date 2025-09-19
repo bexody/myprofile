@@ -1,0 +1,17 @@
+{
+  "particles": {
+    "number": { "value": 90 },
+    "color": { "value": ["#6a00ff", "#00e5ff", "#80d8ff"] },
+    "shape": { "type": "circle" },
+    "opacity": { "value": 0.6 },
+    "size": { "value": 3 },
+    "line_linked": {
+      "enable": true,
+      "distance": 140,
+      "color": "#80d8ff",
+      "opacity": 0.3,
+      "width": 1
+    },
+    "move": { "enable": true, "speed": 2 }
+  }
+}
